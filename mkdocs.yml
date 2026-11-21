@@ -1,0 +1,6 @@
+site_name: Brain Rot Words Slang Guide Docs
+site_url: https://brain-rot-words-slang-guide-docs.readthedocs.io/
+repo_url: https://github.com/rajaumairhamza/brain-rot-words-slang-guide-docs
+theme: readthedocs
+nav:
+  - Home: index.md
